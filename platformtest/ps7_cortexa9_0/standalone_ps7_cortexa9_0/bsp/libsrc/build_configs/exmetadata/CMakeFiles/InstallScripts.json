@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/workspace/platformtest/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/exmetadata/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

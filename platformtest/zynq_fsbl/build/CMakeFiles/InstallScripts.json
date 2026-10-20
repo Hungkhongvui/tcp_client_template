@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/workspace/platformtest/zynq_fsbl/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
